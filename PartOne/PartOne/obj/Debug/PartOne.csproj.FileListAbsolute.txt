@@ -1,0 +1,24 @@
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\bin\Debug\PartOne.exe.config
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\bin\Debug\PartOne.exe
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\bin\Debug\PartOne.pdb
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\obj\Debug\PartOne.csproj.AssemblyReference.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\obj\Debug\PartOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\obj\Debug\PartOne.csproj.CoreCompileInputs.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\obj\Debug\PartOne.exe
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\VS22\PartOne\PartOne\obj\Debug\PartOne.pdb
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\bin\Debug\PartOne.exe.config
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\bin\Debug\PartOne.exe
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\bin\Debug\PartOne.pdb
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.csproj.AssemblyReference.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.csproj.CoreCompileInputs.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.exe
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\PROG REPO\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.pdb
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\bin\Debug\PartOne.exe.config
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\bin\Debug\PartOne.exe
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\bin\Debug\PartOne.pdb
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.csproj.AssemblyReference.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.csproj.CoreCompileInputs.cache
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.exe
+C:\Users\dillo\OneDrive - ADvTECH Ltd\2.1\PROG6221\POE\prog6221---programming-2a---part-1-ST10061721\PartOne\PartOne\obj\Debug\PartOne.pdb
